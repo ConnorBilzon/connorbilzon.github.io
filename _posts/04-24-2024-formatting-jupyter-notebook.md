@@ -52,8 +52,6 @@ Both ordered and unordered lists can help organize information.
 Embedding links and images can enhance the explanatory power of your notebook.
 
 ```markdown
-[Link to OpenAI](https://www.openai.com)
-
 ![Image](https://www.example.com/image.jpg)
 ```
 
