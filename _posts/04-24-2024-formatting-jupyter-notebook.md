@@ -117,4 +117,14 @@ abla 	imes ec{\mathbf{B}} & = \mu_0ec{\mathbf{J}} + \mu_0\epsilon_0rac{\parti
 $$
 ```
 
+## Coloring Text with HTML
+
+While Markdown itself does not support text coloring, you can use HTML tags to achieve this. Here are some examples:
+
+```html
+<span style="color:red;">This text is red.</span>
+<span style="color:blue;">This text is blue.</span>
+<span style="color:green;">This text is green.</span>
+```
+
 This is just a start, but these formatting tools can greatly enhance the clarity and visual appeal of your Jupyter Notebook. Happy documenting!
