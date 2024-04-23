@@ -38,4 +38,8 @@ While the inner workings of ResNet18 involve complex mathematics and computer sc
 
 Whether you're just curious about AI or are looking to dive into the world of deep learning, ResNet18 represents an exciting and accessible starting point. Who knows, maybe you'll use it to teach a computer to recognize your own drawings someday!
 
+A mention must be made to the incredible advancements in ChatGPT, allowing us to generate complex images like the one beneath, highlighting the complexity and sophistication of todays deep learning/AI models!! The image is of what it thinks ResNet18 should be visualised as, how breath-taking!
+![DALL·E 2024-04-24 09 32 43 - Create an intricate and visually captivating infographic of the ResNet18 architecture that highlights its complexity and sop](https://github.com/ConnorBilzon/connorbilzon.github.io/assets/165525998/ba31ccda-e0c5-4582-971a-5f14fa8dc384)
+
+
 Happy learning!
