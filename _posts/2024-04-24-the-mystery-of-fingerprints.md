@@ -1,4 +1,4 @@
-# Deciphering Touch: The Language of Fingerprint Features
+# Unlocking the Secrets of Fingerprints: A Dive Into Minutiae and Patterns
 
 ## Introduction
 On my quest to perfect a fingerprint recognition system, I've learned to read the tiny details that make our fingerprints unique. Minutiae points, ridge patterns, and bifurcations aren't just small differences in our skin. They're the defining features that make each fingerprint one of a kind.
